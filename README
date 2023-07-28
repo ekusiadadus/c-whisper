@@ -1,0 +1,4 @@
+## 動かし方
+
+1. `make setup` or `pip install -r requirements.txt`
+2. `python3 main.py` or jupyter notebook
